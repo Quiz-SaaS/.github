@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## This is an organization about quiz software through Javascript or Typescript.
+
 <!--
 
 **Here are some ideas to get you started:**
